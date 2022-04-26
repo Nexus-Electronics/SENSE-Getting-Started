@@ -1,7 +1,7 @@
 # SENSE-Getting-Started-
 
-Arduino IDE:
+Arduino IDE: https://github.com/Nexus-Electronics/SENSE-Arduino-Library
 
-Circuit Python:
+Circuit Python: https://github.com/Nexus-Electronics/SENSE-Circuit-Python-Library
 
-Raspberry Pi: 
+Raspberry Pi: https://github.com/Nexus-Electronics/SENSE-Raspberry-Pi-Library
