@@ -13,7 +13,7 @@ Raspberry Pi: https://github.com/Nexus-Electronics/SENSE-Raspberry-Pi-Library
 
 Aren't sure what to make with SENSE or need a challenge? Consider these ideas:
 - IoT Weather Station (use micro SD card to log environmental data and time) 
-- Smart Garden Monitor 
+- Plant Monitoring System
 - Touchless Volume Control using Gesture Sensing (hand movements)  
 - High Altitude Weather Balloon 
 - Clap Switch 
