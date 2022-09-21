@@ -7,10 +7,6 @@ Circuit Python: https://github.com/Nexus-Electronics/SENSE-Circuit-Python-Librar
 Raspberry Pi: https://github.com/Nexus-Electronics/SENSE-Raspberry-Pi-Library
 
 
-** Getting Started Guide in development 
-** More examples and demos will be added 
-
-
 Aren't sure what to make with SENSE or need a challenge? Consider these ideas:
 - IoT Weather Station (use micro SD card to log environmental data and time) 
 - Plant Monitoring System
