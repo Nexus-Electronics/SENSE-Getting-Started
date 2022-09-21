@@ -1,6 +1,6 @@
 # SENSE-Getting-Started-
 
-Download User Guide Above
+**Download User Guide Above**
 
 Arduino IDE: https://github.com/Nexus-Electronics/SENSE-Arduino-Library
 
