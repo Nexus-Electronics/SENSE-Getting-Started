@@ -1,5 +1,7 @@
 # SENSE-Getting-Started-
 
+Download User Guide Above
+
 Arduino IDE: https://github.com/Nexus-Electronics/SENSE-Arduino-Library
 
 Circuit Python: https://github.com/Nexus-Electronics/SENSE-Circuit-Python-Library
